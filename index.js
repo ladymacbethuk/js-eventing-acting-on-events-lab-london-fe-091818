@@ -1,7 +1,7 @@
 var dodger = document.getElementById('dodger')
 dodger.style.backgroundColor = 	'#be29ec'
 
-
+/*
 //left
 function moveDodgerLeft() {
   var leftNumbers = dodger.style.left.replace('px', '')
@@ -18,7 +18,7 @@ document.addEventListener('keydown', function(e) {
   }
 })
 
-
+*/
 
 //right
 function moveDodgerRight() {
